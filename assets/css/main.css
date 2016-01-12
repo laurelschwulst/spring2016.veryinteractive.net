@@ -55,6 +55,10 @@ section {
   text-decoration: underline;
 }
 
+.comment {
+  display: none;
+}
+
 .clearer {
   clear: both;
 }
@@ -657,6 +661,10 @@ a.shuffle:hover {
 
 @media screen and (max-width: 810px) {
   .document-side { display: none; }
+}
+
+@media screen and (max-width: 730px) {
+  .current-week { display: none; }
 }
 
 @media screen and (max-width: 540px) {
