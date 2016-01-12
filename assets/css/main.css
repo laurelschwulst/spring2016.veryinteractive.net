@@ -539,8 +539,8 @@ ul.calendar .body {
 
 .projects-start-end {
   position: absolute;
-  width: 100px;
-  right: -100px;
+  width: 200px;
+  right: -200px;
   top: 16px;
 }
 
@@ -651,7 +651,7 @@ a.shuffle:hover {
 /* MEDIA QUERIES
 --------------------------------------------------------- */
 
-@media screen and (max-width: 880px) {
+@media screen and (max-width: 1040px) {
   .projects-start-end { display: none; }
 }
 
@@ -701,6 +701,19 @@ a.shuffle:hover {
   .text {
     font-size: 19px;
     line-height: 1.2;
+  }
+
+}
+
+@media screen and (max-width: 420px) {
+
+  .calendar-row .days {
+    display: none;
+  }
+
+  ul.calendar {
+    margin-left: -14px;
+    margin-right: -14px;
   }
 
 }
