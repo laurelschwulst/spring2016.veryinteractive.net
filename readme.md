@@ -1,6 +1,6 @@
-veryinteractive.net
+spring2016.veryinteractive.net
 ======================
-This website is for the Spring 2016 semester of Interactive Design. Its design is based on the main veryinteractive.net theme. This class in particular was lead by Mindy Seu.
+This website is for the Spring 2016 semester of Interactive Design at California College of the Arts. Its design is based on the main veryinteractive.net theme. This class in particular was lead by Mindy Seu.
 
 ### Colophon
 
